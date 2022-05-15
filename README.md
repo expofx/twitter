@@ -1,3 +1,3 @@
-# README
+# Basic Twitter
 
-Basic Twitter built with Ruby on Rails
+Built with Ruby on Rails 🐦
